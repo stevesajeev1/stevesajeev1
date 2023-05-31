@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/stevesajeev1/stevesajeev1/assets/wave.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/wave.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
