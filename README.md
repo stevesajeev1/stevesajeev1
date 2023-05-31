@@ -28,7 +28,7 @@
 
 ### STATS
 
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevesajeev1&show_icons=true&theme=material-palenight)
+![Steve's GitHub stats](https://github-readme-stats-five-inky-71.vercel.app/api?username=stevesajeev1&show_icons=true&theme=onedark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevesajeev1)
+![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
