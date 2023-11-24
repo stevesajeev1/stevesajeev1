@@ -32,3 +32,6 @@
 
 
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
