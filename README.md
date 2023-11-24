@@ -36,11 +36,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-991.5%20thousand%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 16.9 kB Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2023
+> 🏆 204 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,22 +50,10 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
-Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2023 19:12:50 UTC
+ Last Updated on 24/11/2023 19:20:41 UTC
 <!--END_SECTION:waka-->
