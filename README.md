@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,5 +82,5 @@ stevesajeev1             9 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2023 00:45:47 UTC
+ Last Updated on 28/11/2023 00:46:07 UTC
 <!--END_SECTION:waka-->
