@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,14 +68,19 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   20 mins             ████████████████████░░░░░   78.50 % 
-JSON                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+JavaScript               3 hrs 58 mins       ████████████████████░░░░░   80.18 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+GraphQL                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonTest               26 mins             █████████████████████████   100.00 % 
+Project                  4 hrs 15 mins       █████████████████████░░░░   85.75 % 
+PythonTest               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Chapter 11 Assignment    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 ```
 
 **Timeline**
@@ -83,5 +88,5 @@ PythonTest               26 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 00:46:49 UTC
+ Last Updated on 06/12/2023 00:46:19 UTC
 <!--END_SECTION:waka-->
