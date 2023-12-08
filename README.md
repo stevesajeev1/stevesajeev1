@@ -34,6 +34,8 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-991.5%20thousand%20lines%20of%20code-blue)
@@ -50,10 +52,41 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                96 commits          ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+🌆 Daytime                150 commits         ███████████░░░░░░░░░░░░░░   42.74 % 
+🌃 Evening                103 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+JavaScript               5 hrs 8 mins        ███████████████░░░░░░░░░░   61.64 % 
+Java                     2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+GraphQL                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 20 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Project                  5 hrs 29 mins       ████████████████░░░░░░░░░   65.79 % 
+CPChallenges             2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Chapter 11 Assignment    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 00:45:48 UTC
+ Last Updated on 08/12/2023 00:46:10 UTC
 <!--END_SECTION:waka-->
