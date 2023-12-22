@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -68,17 +68,17 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 hrs 27 mins       ██████████████░░░░░░░░░░░   54.01 % 
-Java                     2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   4 hrs 6 mins        ███████████████░░░░░░░░░░   58.23 % 
+Java                     2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.71 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data                     3 hrs 27 mins       ██████████████░░░░░░░░░░░   54.01 % 
-USACODecember2023        2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Data                     4 hrs 6 mins        ███████████████░░░░░░░░░░   58.23 % 
+USACODecember2023        2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.71 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 **Timeline**
@@ -86,5 +86,5 @@ Unknown Project          4 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2023 00:44:38 UTC
+ Last Updated on 22/12/2023 00:44:21 UTC
 <!--END_SECTION:waka-->
