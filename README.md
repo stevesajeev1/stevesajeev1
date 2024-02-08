@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,14 +68,17 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      1 hr 26 mins        █████████████████████████   99.16 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Java                     2 hrs 28 mins       ████████████████░░░░░░░░░   62.59 % 
+C++                      1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   36.40 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Conway                   1 hr 27 mins        █████████████████████████   100.00 % 
+Word Hunt                2 hrs 30 mins       ████████████████░░░░░░░░░   63.30 % 
+Conway                   1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   36.70 % 
 ```
 
 **Timeline**
@@ -83,5 +86,5 @@ Conway                   1 hr 27 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2024 00:41:44 UTC
+ Last Updated on 08/02/2024 00:42:43 UTC
 <!--END_SECTION:waka-->
