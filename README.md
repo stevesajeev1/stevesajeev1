@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Steve.<br>
-        Rising IB Senior at Seminole High School.<br>
+        IB Senior at Seminole High School.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/stevesajeev">
