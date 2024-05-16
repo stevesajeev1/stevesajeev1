@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,6 +43,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 17.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,5 +88,5 @@ Conway                   0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2024 00:46:44 UTC
+ Last Updated on 16/05/2024 00:47:09 UTC
 <!--END_SECTION:waka-->
