@@ -44,8 +44,6 @@
 
 > 📦 17.8 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -68,13 +66,13 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ConnectFourC++           1 min               █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -82,5 +80,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2024 00:52:12 UTC
+ Last Updated on 02/06/2024 00:52:36 UTC
 <!--END_SECTION:waka-->
