@@ -56,7 +56,8 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     0 secs              █████████████████████████   100.00 % 
+JavaScript               3 mins              █████████████████████████   98.12 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
 **Timeline**
@@ -64,5 +65,5 @@ Rust                     0 secs              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2024 00:57:28 UTC
+ Last Updated on 26/08/2024 00:53:52 UTC
 <!--END_SECTION:waka-->
