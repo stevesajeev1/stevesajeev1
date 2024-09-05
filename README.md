@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Steve.<br>
-        IB Senior at Seminole High School.<br>
+        CS Freshman at the University of Florida.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/stevesajeev">
