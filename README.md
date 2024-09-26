@@ -56,9 +56,7 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   32 mins             ███████████░░░░░░░░░░░░░░   45.88 % 
-Java                     24 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
-C++                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -66,5 +64,5 @@ C++                      13 mins             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2024 00:59:12 UTC
+ Last Updated on 26/09/2024 00:57:56 UTC
 <!--END_SECTION:waka-->
