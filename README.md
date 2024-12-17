@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,11 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     6 hrs 47 mins       ██████████████████░░░░░░░   71.67 % 
-CSS                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Text                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Rust                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Java                     7 hrs 3 mins        ███████████████████░░░░░░   74.88 % 
+CSS                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Rust                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 **Timeline**
@@ -68,5 +68,5 @@ Rust                     8 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2024 01:06:37 UTC
+ Last Updated on 17/12/2024 01:04:20 UTC
 <!--END_SECTION:waka-->
