@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -56,11 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               3 hrs 58 mins       ██████████████████░░░░░░░   73.76 % 
-TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Git                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JavaScript               3 hrs 58 mins       ██████████████░░░░░░░░░░░   56.30 % 
+Python                   1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Git                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 ```
 
 **Timeline**
@@ -68,5 +68,5 @@ Git                      8 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 00:58:57 UTC
+ Last Updated on 23/01/2025 00:57:53 UTC
 <!--END_SECTION:waka-->
