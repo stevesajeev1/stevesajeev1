@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Steve.<br>
-        CS Freshman at the University of Florida.<br>
+        CS Student at the University of Florida.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/stevesajeev">
