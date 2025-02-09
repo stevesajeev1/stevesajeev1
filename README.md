@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -56,11 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-C++                      3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-TypeScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Prisma                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Java                     3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+C++                      3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+TypeScript               2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 ```
 
 **Timeline**
@@ -68,5 +68,5 @@ Prisma                   23 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 00:57:22 UTC
+ Last Updated on 09/02/2025 01:01:43 UTC
 <!--END_SECTION:waka-->
