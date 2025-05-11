@@ -56,9 +56,7 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     24 mins             ████████████████░░░░░░░░░   64.17 % 
-CSS                      12 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -66,5 +64,5 @@ Markdown                 1 min               █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 01:05:49 UTC
+ Last Updated on 11/05/2025 01:12:38 UTC
 <!--END_SECTION:waka-->
