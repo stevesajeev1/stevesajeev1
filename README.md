@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,11 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     37 mins             █████████████░░░░░░░░░░░░   53.90 % 
-Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Python                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Bash                     22 mins             ████████████░░░░░░░░░░░░░   48.00 % 
+Markdown                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Python                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 **Timeline**
@@ -68,5 +68,5 @@ Docker                   0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 01:10:21 UTC
+ Last Updated on 13/06/2025 01:11:29 UTC
 <!--END_SECTION:waka-->
