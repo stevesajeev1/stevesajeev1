@@ -34,6 +34,8 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
@@ -41,9 +43,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                442 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-🌆 Daytime                721 commits         ██████████░░░░░░░░░░░░░░░   39.70 % 
-🌃 Evening                471 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+🌞 Morning                442 commits         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+🌆 Daytime                722 commits         ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌃 Evening                471 commits         ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
 🌙 Night                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 ```
 
@@ -54,9 +56,9 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   5 hrs 22 mins       ████████████████████████░   97.82 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Python                   4 hrs 44 mins       █████████████████████████   98.45 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 **Timeline**
@@ -64,5 +66,5 @@ Other                    3 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 01:11:58 UTC
+ Last Updated on 03/07/2025 01:11:51 UTC
 <!--END_SECTION:waka-->
