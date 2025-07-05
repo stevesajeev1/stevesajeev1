@@ -56,7 +56,8 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 hrs 4 mins        █████████████████████████   100.00 % 
+Python                   1 hr 50 mins        █████████████████████████   99.28 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 **Timeline**
@@ -64,5 +65,5 @@ Python                   3 hrs 4 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2025 01:11:24 UTC
+ Last Updated on 05/07/2025 01:08:56 UTC
 <!--END_SECTION:waka-->
