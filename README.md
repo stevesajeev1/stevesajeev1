@@ -34,8 +34,6 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%204%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
@@ -43,10 +41,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                432 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-🌆 Daytime                716 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌃 Evening                536 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+🌞 Morning                432 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+🌆 Daytime                714 commits         ██████████░░░░░░░░░░░░░░░   38.20 % 
+🌃 Evening                536 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌙 Night                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 ```
 
 
@@ -68,5 +66,5 @@ iCalendar                0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 01:05:43 UTC
+ Last Updated on 30/08/2025 01:02:44 UTC
 <!--END_SECTION:waka-->
