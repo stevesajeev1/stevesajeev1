@@ -34,14 +34,39 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                451 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+🌆 Daytime                764 commits         ██████████░░░░░░░░░░░░░░░   38.72 % 
+🌃 Evening                569 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+🌙 Night                  189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Python                   3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.76 % 
+JSON                     1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+TypeScript               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C++                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 01:02:46 UTC
+ Last Updated on 21/09/2025 01:10:42 UTC
 <!--END_SECTION:waka-->
