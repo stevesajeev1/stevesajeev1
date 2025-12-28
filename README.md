@@ -56,7 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       10 mins             ██████████░░░░░░░░░░░░░░░   40.80 % 
+TypeScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+CSS                      5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+YAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 **Timeline**
@@ -64,5 +68,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 01:13:05 UTC
+ Last Updated on 28/12/2025 01:23:46 UTC
 <!--END_SECTION:waka-->
