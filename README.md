@@ -56,11 +56,7 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               18 mins             █████████████████░░░░░░░░   67.81 % 
-HTML                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-TSConfig                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -68,5 +64,5 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 01:16:53 UTC
+ Last Updated on 07/01/2026 01:17:15 UTC
 <!--END_SECTION:waka-->
