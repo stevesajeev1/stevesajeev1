@@ -56,7 +56,8 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     33 mins             ██████████████████████░░░   86.68 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 
 **Timeline**
@@ -64,5 +65,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 01:14:47 UTC
+ Last Updated on 18/01/2026 01:23:21 UTC
 <!--END_SECTION:waka-->
