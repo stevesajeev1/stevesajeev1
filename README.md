@@ -34,19 +34,19 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.52%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.53%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                518 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-🌆 Daytime                849 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
-🌃 Evening                748 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
-🌙 Night                  217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+🌞 Morning                522 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌆 Daytime                855 commits         █████████░░░░░░░░░░░░░░░░   36.21 % 
+🌃 Evening                766 commits         ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌙 Night                  218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 
 
@@ -56,11 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   7 hrs 21 mins       ████████████████████░░░░░   81.86 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python                   7 hrs 36 mins       ████████████████░░░░░░░░░   65.49 % 
+Java                     2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 **Timeline**
@@ -68,5 +68,5 @@ Text                     10 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 01:23:20 UTC
+ Last Updated on 28/01/2026 01:18:39 UTC
 <!--END_SECTION:waka-->
