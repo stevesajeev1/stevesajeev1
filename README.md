@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-742%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,11 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               10 hrs 24 mins      ████████████░░░░░░░░░░░░░   47.17 % 
-JavaScript               5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Python                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Java                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JavaScript               5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.55 % 
+Python                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+TypeScript               2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Java                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 
 **Timeline**
@@ -68,5 +68,5 @@ JSON                     41 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 01:54:26 UTC
+ Last Updated on 28/03/2026 01:46:37 UTC
 <!--END_SECTION:waka-->
