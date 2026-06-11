@@ -40,10 +40,29 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.69%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                685 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌆 Daytime                1003 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+🌃 Evening                908 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 02:52:04 UTC
+ Last Updated on 11/06/2026 03:01:09 UTC
 <!--END_SECTION:waka-->
