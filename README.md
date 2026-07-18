@@ -34,17 +34,19 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2022%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.75%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                723 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-🌆 Daytime                1042 commits        █████████░░░░░░░░░░░░░░░░   34.86 % 
-🌃 Evening                966 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
-🌙 Night                  258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+🌞 Morning                723 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+🌆 Daytime                1043 commits        █████████░░░░░░░░░░░░░░░░   34.86 % 
+🌃 Evening                968 commits         ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌙 Night                  258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 
 
@@ -54,7 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.25 % 
+Go                       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+TOML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Makefile                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 ```
 
 **Timeline**
@@ -62,5 +68,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 02:08:29 UTC
+ Last Updated on 18/07/2026 01:57:00 UTC
 <!--END_SECTION:waka-->
