@@ -54,11 +54,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Svelte                   1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Go                       55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Makefile                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Emacs Lisp               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Go                       55 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+Makefile                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Emacs Lisp               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 ```
 
 **Timeline**
@@ -66,5 +66,5 @@ TypeScript               24 mins             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:09:05 UTC
+ Last Updated on 25/07/2026 02:08:05 UTC
 <!--END_SECTION:waka-->
