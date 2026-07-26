@@ -34,6 +34,8 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2048%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.75%20million%20lines%20of%20code-blue?style=flat)
@@ -41,9 +43,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                723 commits         ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-🌆 Daytime                1043 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌃 Evening                971 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
+🌞 Morning                724 commits         ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+🌆 Daytime                1043 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
+🌃 Evening                971 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
 🌙 Night                  258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 
@@ -54,11 +56,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       55 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Makefile                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Emacs Lisp               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Go                       55 mins             █████████░░░░░░░░░░░░░░░░   35.32 % 
+Makefile                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 **Timeline**
@@ -66,5 +68,5 @@ YAML                     21 mins             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:08:05 UTC
+ Last Updated on 26/07/2026 02:12:38 UTC
 <!--END_SECTION:waka-->
