@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20mins-blue?style=flat)
 
@@ -58,11 +58,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     22 mins             ███████████████████░░░░░░   74.86 % 
-Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Go                       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+SQL                      2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.90 % 
+Python                   1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+JSON                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Makefile                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +76,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 00:58:33 UTC
+ Last Updated on 27/08/2026 06:43:13 UTC
 <!--END_SECTION:waka-->
