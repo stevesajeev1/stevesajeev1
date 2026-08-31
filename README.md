@@ -58,11 +58,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   8 hrs 11 mins       ███████████████░░░░░░░░░░   60.38 % 
-SQL                      3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Makefile                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Python                   8 hrs 11 mins       █████████████░░░░░░░░░░░░   52.45 % 
+SQL                      3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Java                     2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Makefile                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +76,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 03:04:02 UTC
+ Last Updated on 31/08/2026 02:58:04 UTC
 <!--END_SECTION:waka-->
