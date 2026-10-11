@@ -58,11 +58,11 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-YAML                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Python                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Docker                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Svelte                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Java                     4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Python                   3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+YAML                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Docker                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +76,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 03:52:46 UTC
+ Last Updated on 11/10/2026 03:25:57 UTC
 <!--END_SECTION:waka-->
