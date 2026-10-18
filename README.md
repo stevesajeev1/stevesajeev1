@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20mins-blue?style=flat)
 
@@ -58,11 +58,9 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 hrs 24 mins       ██████████████████████░░░   89.73 % 
-Java                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   4 hrs 40 mins       ██████████████████████░░░   88.49 % 
+Java                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +74,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 02:35:07 UTC
+ Last Updated on 18/10/2026 02:36:41 UTC
 <!--END_SECTION:waka-->
