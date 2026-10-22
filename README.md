@@ -58,8 +58,8 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   52 mins             ███████████████░░░░░░░░░░   59.39 % 
-Java                     35 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
+Java                     1 hr 59 mins        █████████████████░░░░░░░░   69.28 % 
+Python                   52 mins             ████████░░░░░░░░░░░░░░░░░   30.72 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,5 +73,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 02:55:14 UTC
+ Last Updated on 22/10/2026 02:54:21 UTC
 <!--END_SECTION:waka-->
