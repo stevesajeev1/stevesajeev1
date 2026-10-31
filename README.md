@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats-five-inky-71.vercel.app/api/top-langs/?username=stevesajeev1&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20mins-blue?style=flat)
 
@@ -58,9 +58,8 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     3 hrs 25 mins       ████████████████████████░   96.16 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Bash                     8 mins              █████████████████████████   98.17 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,5 +73,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/stevesajeev1/stevesajeev1/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 03:58:08 UTC
+ Last Updated on 31/10/2026 03:42:39 UTC
 <!--END_SECTION:waka-->
